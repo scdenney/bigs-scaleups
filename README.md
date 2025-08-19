@@ -22,7 +22,12 @@ Scale-ups are frequently assumed to be synonymous with technology firms, but Can
 When ready for release, this repository will include:  
 - Data documentation 
 - Project administration and timeline materials  
-- Research outputs and publications  
+- Research outputs and publications
+
+## Related Resources
+This project builds on earlier work exploring the landscape of Canada’s high-performing firms.  
+- **Foundational Report:** *Into the Scale-upverse: Exploring the Landscape of Canada’s High-Performing Firms* (Munk School of Global Affairs & Public Policy). Available at: [Munk School – Scale-upverse Project](https://munkschool.utoronto.ca/research/scale-verse-exploring-landscape-canadas-high-performing-firms)  
+- **Background Manuscript (available in the [**Manuscripts**](./Manuscripts) folder).
 
 ## Contact
 For more information, please contact:  
