@@ -20,7 +20,7 @@ The study links Statistics Canada administrative firm records with the Business 
 Scale-ups are frequently assumed to be synonymous with technology firms, but Canadian evidence shows they emerge across diverse sectors and regions. This heterogeneity has implications for innovation policy design. The project's central descriptive finding is one of sequencing: SR&ED tends to reach firms before or during scaling, whereas BIGS support more often follows an initial scaling episode, so federal innovation policy more often reinforces firms already on a growth trajectory than catalyzes early-stage scaling.
 
 ## Status
-Under revision (revise and resubmit) at *Canadian Public Policy / Analyse de politiques*. The current manuscript is in the [**Manuscripts**](./manuscripts) folder.
+Under review at *Canadian Public Policy / Analyse de politiques*. The current manuscript is in the [**Manuscripts**](./manuscripts) folder.
 
 ## Repository Contents
 When ready for release, this repository will include:
