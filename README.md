@@ -35,5 +35,4 @@ This project builds on earlier work exploring the landscape of Canada's high-per
 
 ## Contact
 For more information, please contact:
-**Steven Denney**
-Email: s.c.denney@hum.leidenuniv.nl
+**Steven Denney** (s.c.denney@hum.leidenuniv.nl)
