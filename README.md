@@ -3,7 +3,7 @@
 ## Project Overview
 This project examines how Canada's federal innovation policy mix reaches firms that achieve rapid growth. While scale-ups represent a small share of the firm population, they contribute disproportionately to employment, productivity, and innovation. Yet evidence suggests they follow diverse growth paths and are unevenly supported by existing policy instruments.
 
-The study links Statistics Canada administrative firm records with the **Business Innovation and Growth Support (BIGS)** database and **Scientific Research and Experimental Development (SR&ED)** tax credit records for 2007–2019. It provides a descriptive account of which firms scale, what share receive federal support, and when that support arrives relative to firms' growth trajectories, situating the Canadian case in the broader international debate about how best to nurture high-growth firms.
+The study links Statistics Canada administrative firm records with the Business Innovation and Growth Support (BIGS) database and Scientific Research and Experimental Development (SR&ED) tax credit records for 2007–2019. It provides a descriptive account of which firms scale, what share receive federal support, and when that support arrives relative to firms' growth trajectories, situating the Canadian case in the broader international debate about how best to nurture high-growth firms.
 
 ## Central Research Questions
 - Among Canadian firms, who scales up, and what is the industrial and geographic distribution?
